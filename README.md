@@ -6,7 +6,8 @@ Before deploying this project, ensure the following are installed in your Salesf
 
 ### Required Managed Package
 
-- **Copado Deployer** 
+- **Copado Deployer**
+- Base package for Copado Metadata Pipelines and Source Format Pipelines features, providing Salesforce release management, end-to-end DevOps automation
   - This project depends on Copado custom objects and functionality including:
     - `copado__Deployment__c`
     - `copado__User_Story__c`
