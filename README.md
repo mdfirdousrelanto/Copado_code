@@ -1,4 +1,4 @@
-# Copado_code
+# Copado_poc
 
 ## Prerequisites
 
